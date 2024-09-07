@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/cmake-build-debug"
+			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm/cmake-build-debug"
 		},
 		{
 			"name" : "0709PhilosophiesMyImpementation_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation"
+			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/cmake-build-debug"
+			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -639,7 +639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation"
+			"value" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

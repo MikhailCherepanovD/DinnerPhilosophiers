@@ -1,3 +1,0 @@
-/home/mikhail/Разработка/Clion/0709PhilosophiesMyImpementation/cmake-build-debug/CMakeFiles/0709PhilosophiesMyImpementation.dir
-/home/mikhail/Разработка/Clion/0709PhilosophiesMyImpementation/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mikhail/Разработка/Clion/0709PhilosophiesMyImpementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

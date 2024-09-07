@@ -1,0 +1,9 @@
+# ninja log v5
+1	873	1725731171988529942	CMakeFiles/0709PhilosophiesMyImpementation.dir/main.cpp.o	436ad1682586ff35
+1	912	1725731191926277571	CMakeFiles/0709PhilosophiesMyImpementation.dir/Philosopher.cpp.o	c18e8e9133ed423e
+1	649	1725731171765532818	CMakeFiles/0709PhilosophiesMyImpementation.dir/Fork.cpp.o	8da768c9af10b129
+912	1027	1725731192039276166	0709PhilosophiesMyImpementation	542d57b03aac88e5
+1	470	1725731696363090840	CMakeFiles/0709PhilosophiesMyImpementation.dir/Fork.cpp.o	4129599f1d4a7c47
+1	516	1725731696410090590	CMakeFiles/0709PhilosophiesMyImpementation.dir/Philosopher.cpp.o	54942bace1514cb1
+1	664	1725731696558089803	CMakeFiles/0709PhilosophiesMyImpementation.dir/main.cpp.o	3dcaee68c3528b21
+664	728	1725731696622089463	0709PhilosophiesMyImpementation	542d57b03aac88e5

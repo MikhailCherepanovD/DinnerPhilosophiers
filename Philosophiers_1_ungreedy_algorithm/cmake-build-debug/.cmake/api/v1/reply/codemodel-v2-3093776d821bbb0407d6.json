@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/cmake-build-debug",
-		"source" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation"
+		"build" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm/cmake-build-debug",
+		"source" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0709PhilosophiesMyImpementation/Philosophiers_1_ungreedy_algorithm"
 	},
 	"version" : 
 	{
